@@ -1,0 +1,16 @@
+{
+  "suffix": "1",
+  "model_type": "t5_encoder_token_level",
+  "model_name": "t5-base",
+  "tokenizer_name": "t5-base",
+  "num_train_epochs": 20,
+  "warmup_steps": 200,
+  "per_device_train_batch_size": 16,
+  "per_device_eval_batch_size": 16,
+  "break_tokens_list": null,
+  "only_consider_segments": true,
+  "special_tokens": null,
+  "train_data_location": "./data/train.tsv",
+  "valid_data_location": "./data/valid.tsv",
+  "test_data_location": "./data/test.tsv"
+}
