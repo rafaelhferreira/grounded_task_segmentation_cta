@@ -126,7 +126,7 @@ If you find it useful please cite our work:
                   David Semedo and
                   Joao Magalhaes},
   title        = {Grounded Complex Task Segmentation for Conversational Assistants},
-  booktitle    = {Proceedings of the 24rd Annual Meeting of the Special Interest Group
+  booktitle    = {Proceedings of the 24th Annual Meeting of the Special Interest Group
                   on Discourse and Dialogue, {SIGDIAL} 2023, Prague, CZ, 13-15 September
                   2023},
   publisher    = {Association for Computational Linguistics},
